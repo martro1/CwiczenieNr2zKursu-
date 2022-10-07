@@ -1,0 +1,12 @@
+C:\Users\andrz\source\repos\Debtor.Core\bin\Debug\net6.0\Debtor.Core.deps.json
+C:\Users\andrz\source\repos\Debtor.Core\bin\Debug\net6.0\Debtor.Core.dll
+C:\Users\andrz\source\repos\Debtor.Core\bin\Debug\net6.0\Debtor.Core.pdb
+C:\Users\andrz\source\repos\Debtor.Core\obj\Debug\net6.0\Debtor.Core.csproj.AssemblyReference.cache
+C:\Users\andrz\source\repos\Debtor.Core\obj\Debug\net6.0\Debtor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrz\source\repos\Debtor.Core\obj\Debug\net6.0\Debtor.Core.AssemblyInfoInputs.cache
+C:\Users\andrz\source\repos\Debtor.Core\obj\Debug\net6.0\Debtor.Core.AssemblyInfo.cs
+C:\Users\andrz\source\repos\Debtor.Core\obj\Debug\net6.0\Debtor.Core.csproj.CoreCompileInputs.cache
+C:\Users\andrz\source\repos\Debtor.Core\obj\Debug\net6.0\Debtor.Core.dll
+C:\Users\andrz\source\repos\Debtor.Core\obj\Debug\net6.0\refint\Debtor.Core.dll
+C:\Users\andrz\source\repos\Debtor.Core\obj\Debug\net6.0\Debtor.Core.pdb
+C:\Users\andrz\source\repos\Debtor.Core\obj\Debug\net6.0\ref\Debtor.Core.dll
